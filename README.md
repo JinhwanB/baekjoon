@@ -16,6 +16,10 @@
 [1931번 - 회의실 배정](https://github.com/JinhwanB/baekjoon/blob/main/src/silver1/N1931.java)<br>
 [2002번 - 추월](https://github.com/JinhwanB/baekjoon/blob/main/src/silver1/N2002.java)
 
+## Silver2
+
+[11725번 - 트리의 부모 찾기](https://github.com/JinhwanB/baekjoon/blob/main/src/silver2/N11725.java)
+
 ## Silver3
 
 [1021번 - 회전하는 큐](https://github.com/JinhwanB/baekjoon/blob/main/src/silver3/N1021.java)<br>
