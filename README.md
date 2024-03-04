@@ -4,7 +4,8 @@
 ## Bronze3
 
 [10162번 - 전자레인지](https://github.com/JinhwanB/baekjoon/blob/main/src/bronze3/N10162.java)<br>
-[10818번 - 최소, 최대](https://github.com/JinhwanB/baekjoon/blob/main/src/bronze3/N10818.java)
+[10818번 - 최소, 최대](https://github.com/JinhwanB/baekjoon/blob/main/src/bronze3/N10818.java)<br>
+[5613번 - 계산기 프로그램](https://github.com/JinhwanB/baekjoon/blob/main/src/bronze3/N5613.java)
 
 ## Bronze5
 
