@@ -1,0 +1,8 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8ùÚß¾«1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç„ñ8úÚß¾«1
+G	java:S106"+Replace this use of System.out by a logger.(ûÄÏ8„Ûß¾«1
+{
+java:S12107"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ãÇ‘ÿÿÿÿÿ8†Ûß¾«1
+`
+java:S1128">Remove this unused import 'org.jetbrains.annotations.NotNull'.(éš®ïøÿÿÿÿ8‡Ûß¾«1

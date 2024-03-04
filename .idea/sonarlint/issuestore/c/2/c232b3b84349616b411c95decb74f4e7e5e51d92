@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹´°«ÿÿÿÿÿ8Ïë‰—1
+i
+java:S3008"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§•¯Æ8ÿÏë‰—1
+i
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§•¯Æ8€Ğë‰—1
+i
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§•¯Æ8€Ğë‰—1
+i
+java:S3008"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§•¯Æ8€Ğë‰—1
+[
+java:S1659">Declare "A" and all following declarations on a separate line.(§•¯Æ8€Ğë‰—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÆÖå8„Ğë‰—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡ò†şÿÿÿÿ8„Ğë‰—1
