@@ -1,5 +1,6 @@
 # baekjoon
- 백준 문제 풀이
+
+백준 문제 풀이
 
 ## Bronze3
 
@@ -36,6 +37,10 @@
 [11866번 - 요세푸스 문제 0](https://github.com/JinhwanB/baekjoon/blob/main/src/silver5/N11866.java)<br>
 [1193번 - 분수찾기](https://github.com/JinhwanB/baekjoon/blob/main/src/silver5/N1193.java)<br>
 [7568번 - 덩치](https://github.com/JinhwanB/baekjoon/blob/main/src/silver5/N7568.java)
+
+## Gold2
+
+[1167번 - 트리의 지름]()
 
 ## Gold3
 
