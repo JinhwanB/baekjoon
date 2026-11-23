@@ -40,7 +40,7 @@
 
 ## Gold2
 
-[1167번 - 트리의 지름]()
+[1167번 - 트리의 지름](https://github.com/JinhwanB/baekjoon/blob/main/src/gold2/N1167.java)
 
 ## Gold3
 
