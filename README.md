@@ -280,6 +280,7 @@
 [21278번 - 호석이 두 마리 치킨](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N21278.java)<br>
 [21940번 - 가운데에서 만나기](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N21940.java)<br>
 [25682번 - 체스판 다시 칠하기 2](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N25682.java)<br>
+[1967번 - 트리의 지름](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N1967.java)<br>
 
 ## Gold5
 
