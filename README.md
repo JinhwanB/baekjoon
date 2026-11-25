@@ -284,6 +284,7 @@
 [1967번 - 트리의 지름](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N1967.java)<br>
 [5639번 - 이진 검색 트리](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N5639.java)<br>
 [4803번 - 트리](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N4803.java)<br>
+[1976번 - 여행 가자](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N1976.java)<br>
 
 ## Gold5
 
