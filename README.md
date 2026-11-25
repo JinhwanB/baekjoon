@@ -230,6 +230,7 @@
 [11444번 - 피보나치 수 6](https://github.com/JinhwanB/baekjoon/blob/main/src/gold2/N11444.java)<br>
 [11780번 - 플로이드 2](https://github.com/JinhwanB/baekjoon/blob/main/src/gold2/N11780.java)<br>
 [12015번 - 가장 긴 증가하는 부분 수열 2](https://github.com/JinhwanB/baekjoon/blob/main/src/gold2/N12015.java)<br>
+[4195번 - 친구 네트워크](https://github.com/JinhwanB/baekjoon/blob/main/src/gold2/N4195.java)<br>
 
 ## Gold3
 
