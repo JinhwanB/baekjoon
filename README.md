@@ -286,6 +286,7 @@
 [5639번 - 이진 검색 트리](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N5639.java)<br>
 [4803번 - 트리](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N4803.java)<br>
 [1976번 - 여행 가자](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N1976.java)<br>
+[20040번 - 사이클 게임](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N20040.java)<br>
 
 ## Gold5
 
