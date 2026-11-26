@@ -253,6 +253,7 @@
 [17270번 - 연예인은 힘들어](https://github.com/JinhwanB/baekjoon/blob/main/src/gold3/N17270.java)<br>
 [23286번 - 허들 넘기](https://github.com/JinhwanB/baekjoon/blob/main/src/gold3/N23286.java)<br>
 [4386번 - 별자리 만들기](https://github.com/JinhwanB/baekjoon/blob/main/src/gold3/N4386.java)<br>
+[1774번 - 우주신과의 교감](https://github.com/JinhwanB/baekjoon/blob/main/src/gold3/N1774.java)<br>
 
 ## Gold4
 
