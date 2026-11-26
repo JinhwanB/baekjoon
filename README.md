@@ -288,6 +288,7 @@
 [1976번 - 여행 가자](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N1976.java)<br>
 [20040번 - 사이클 게임](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N20040.java)<br>
 [1043번 - 거짓말](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N1043.java)<br>
+[1197번 - 최소 스패닝 트리](https://github.com/JinhwanB/baekjoon/blob/main/src/gold4/N1197.java)<br>
 
 ## Gold5
 
