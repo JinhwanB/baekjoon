@@ -217,6 +217,7 @@
 [3665번 - 최종 순위](https://github.com/JinhwanB/baekjoon/blob/main/src/gold1/N3665.java)<br>
 [11401번 - 이항 계수 3](https://github.com/JinhwanB/baekjoon/blob/main/src/gold1/N11401.java)<br>
 [2263번 - 트리의 순회](https://github.com/JinhwanB/baekjoon/blob/main/src/gold1/N2263.java)<br>
+[17472번 - 다리 만들기 2](https://github.com/JinhwanB/baekjoon/blob/main/src/gold1/N17472.java)<br>
 
 ## Gold2
 
