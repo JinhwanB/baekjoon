@@ -255,6 +255,7 @@
 [23286번 - 허들 넘기](https://github.com/JinhwanB/baekjoon/blob/main/src/gold3/N23286.java)<br>
 [4386번 - 별자리 만들기](https://github.com/JinhwanB/baekjoon/blob/main/src/gold3/N4386.java)<br>
 [1774번 - 우주신과의 교감](https://github.com/JinhwanB/baekjoon/blob/main/src/gold3/N1774.java)<br>
+[14621번 - 나만 안되는 연애](https://github.com/JinhwanB/baekjoon/blob/main/src/gold3/N14621.java)<br>
 
 ## Gold4
 
